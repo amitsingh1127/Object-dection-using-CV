@@ -1,4 +1,19 @@
-# Object-detection-using-CV
-This project is done in Python Language using module like CV, Numpy. 
-In this project we use YOLO algorithm to train our module to detect the obeject and classified them.
+# Object Detection with YOLO
+This project uses the YOLO (You Only Look Once) algorithm to perform object detection in images and videos. The project is implemented in Python and uses open-source libraries such as OpenCV and Numpy.
+
+### Requirements
+The following libraries must be installed to run this project:
+
+- OpenCV
+- Numpy
+- Matplotlib (optional)
+
+### Results
+The object detection results will be displayed on the screen with bounding boxes around the detected objects and their class labels. The results can also be saved as an image or video file.
+
+### Note
+This project uses a pre-trained YOLO model and is only intended for educational purposes. To improve the object detection accuracy, you can train the model on your own custom dataset.
+
+
+
 
