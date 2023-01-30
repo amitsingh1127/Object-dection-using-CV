@@ -8,6 +8,17 @@ The following libraries must be installed to run this project:
 - Numpy
 - Matplotlib (optional)
 
+### Usage
+To run the object detection, use the following command:
+```
+python object_detection.py --image <path to image>
+```
+
+To run the object detection on a video, use the following command:
+```
+python object_detection.py --video <path to video>
+```
+
 ### Results
 The object detection results will be displayed on the screen with bounding boxes around the detected objects and their class labels. The results can also be saved as an image or video file.
 
